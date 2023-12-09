@@ -6,7 +6,6 @@ to do:
 	turkey
 	israel/palestine/golan heights/jordan
 	kaliningrad
-	spanish moroccan cities
 	grenzmark/danzig
 	east timor
 	miskito coast
@@ -18,6 +17,5 @@ to do:
 	georgia
 	west sahara
 	plc
-	austrian milan
 	hadrians wall
 	germany
